@@ -1,0 +1,39 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: orange;
+}
+
+h1
+{
+    display: flex;
+    justify-content: center;
+}
+
+.smallImg
+{
+    width: 24%;
+    height: 24%;
+    margin-right: 1px;
+}
+
+.bigImg
+{
+    width: 45%;
+    height: 45%;
+}
+
+#bigDiv
+{
+    margin-bottom: 30px;
+}
+
+#firstDiv
+{
+    margin-bottom: 30px;
+}
+
+
+

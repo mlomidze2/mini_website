@@ -1,0 +1,16 @@
+body
+{
+    background-color: rgb(111, 0, 255);
+}
+
+h1
+{
+    display: flex;
+    justify-content: center;
+}
+
+#reg-container 
+{
+    display: flex;
+}
+
